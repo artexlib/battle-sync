@@ -30,5 +30,4 @@ Customize battle-sync to your preferences through the `config.json` file or the 
 ```json
 {
   "isEnabled": true,
-  // ... other options
 }
