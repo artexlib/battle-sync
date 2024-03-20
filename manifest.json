@@ -1,8 +1,8 @@
 {
     "files": {
         "README.md": "ab9b3ed5ae3df4c706dc1c1867a16737e755308d695613b6e3baa96a15bca386",
-        "lib/data/abnormalities.js": "27be73d40b6ec02e11e18b011f1aa976456535a4e8182bd87d923450dc61071a",
-        "lib/handlers/abnormality_handler.js": "bdde43d7c7350d8b1967d232ee36f697bcb12768d1c65f9016bbb93663d60037",
+        "lib/data/abnormalities.js": "c6f54b43ae22be469d3e300781c337861ad947cef018dbce67a9918f538ffd44",
+        "lib/handlers/abnormality_handler.js": "7325111a3cb96693a50d069e54ac5ba837c703da61eb265682bd625a5c13d7b1",
         "lib/handlers/command_handler.js": "f4f8a54c1fa95b9d389e41549bc2a3bee799f31bf69e0369cd617821e06fc1e4",
         "lib/index.js": "fd33f0b12407f8471d7ce30b21edf1fac55c4e1644f7f2ebdce00a866305a106",
         "lib/settings/settings.js": "50fe4bc4b0cae9c082e364d6a51adcf22ff26d68fe08905bdf673af01539f3fa",
