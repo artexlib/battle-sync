@@ -2,7 +2,7 @@
     "files": {
         "README.md": "fe9afc79cac9568d9ea36b500d3ca98a3f54af4a22f8af1f85064a04c8308620",
         "lib/data/abnormalities.js": "3ef374ffdff0049c034c987256482cd2abeed2a32e770358ec3217c9a15ed229",
-        "lib/handlers/abnormality_handler.js": "41f32ffb2c752209a95032079399d1fc3b20f9234c11fee578423174cc1d3509",
+        "lib/handlers/abnormality_handler.js": "bdde43d7c7350d8b1967d232ee36f697bcb12768d1c65f9016bbb93663d60037",
         "lib/handlers/command_handler.js": "f4f8a54c1fa95b9d389e41549bc2a3bee799f31bf69e0369cd617821e06fc1e4",
         "lib/index.js": "fd33f0b12407f8471d7ce30b21edf1fac55c4e1644f7f2ebdce00a866305a106",
         "lib/settings/settings.js": "50fe4bc4b0cae9c082e364d6a51adcf22ff26d68fe08905bdf673af01539f3fa",
