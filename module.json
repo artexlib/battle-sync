@@ -1,0 +1,15 @@
+{
+    "disableAutoUpdate": false,
+    "name": "battle-sync",
+    "author": "ArtexLib",
+    "description": "Helper countdown mod that tells you when your party buffs are off cooldown.",
+    "options": {
+        "cliName": "<font color='#088DA5'>BS</font>",
+        "guiName": "battle-sync",
+        "settingsVersion": 1,
+        "settingsFile": "config.json",
+        "settingsMigrator": "./lib/settings/settings_migrator.js"
+    },
+    "servers": ["https://raw.githubusercontent.com/artexlib/battle-sync/main/"],
+    "supportUrl": "https://github.com/artexlib/battle-sync/issues/"
+}

@@ -1,0 +1,20 @@
+{
+    "files": {
+        "README.md": "58159f0afca8e3477e5bc1f420a0df1cdc2a7a6e065b5defbb450ae206058a51",
+        "lib/data/abnormalities.js": "3ef374ffdff0049c034c987256482cd2abeed2a32e770358ec3217c9a15ed229",
+        "lib/handlers/abnormality_handler.js": "41f32ffb2c752209a95032079399d1fc3b20f9234c11fee578423174cc1d3509",
+        "lib/handlers/command_handler.js": "f4f8a54c1fa95b9d389e41549bc2a3bee799f31bf69e0369cd617821e06fc1e4",
+        "lib/index.js": "fd33f0b12407f8471d7ce30b21edf1fac55c4e1644f7f2ebdce00a866305a106",
+        "lib/settings/settings.js": "50fe4bc4b0cae9c082e364d6a51adcf22ff26d68fe08905bdf673af01539f3fa",
+        "lib/settings/settings_migrator.js": "e9a22e4d0b1327aa9ccd4f60a24583385a1d30b5661abb563a17d8b901cc0015",
+        "lib/settings/settings_structure.js": "f4a5954a29d72393018a686a83cfd2e2a27e366297cb169eb5e218f6288b562e",
+        "module.json": "8ca42b9145fbc17a62ae3cd89909eab6881ffa7f7414ee7025b1b51f0da57901",
+        "package.json": "98b94e8cb7ae6c3736b61f198bfd0f83df24db6bf4bae73f15a3df3c3e1b6f6e"
+    },
+    "defs": {
+        "S_ABNORMALITY_BEGIN": 4,
+        "S_ABNORMALITY_END": 1,
+        "S_ABNORMALITY_REFRESH": 1,
+        "S_DUNGEON_EVENT_MESSAGE": 2
+    }
+}
