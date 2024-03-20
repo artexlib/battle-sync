@@ -8,7 +8,7 @@
 
 * **Precision Timing:** Tracks essential party buffs and abilities, giving you a tactical edge in combat.
 * **Customizable Notifications:** Receive timely in-game countdown messages, ensuring you never miss a critical cooldown again.
-* **User-Friendly Configuration:** Easily adjust settings either through the intuitive UI (if TeraProxy GUIMode is enabled) or directly in the `config.json` file.
+* **User-Friendly Configuration:** Easily adjust settings either through the intuitive UI or directly in the `config.json` file.
 * **Seamless Integration:** battle-sync works flawlessly within your TERA client, providing a polished and cohesive experience. 
 
 ### ⚙️ Installation
