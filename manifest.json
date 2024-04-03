@@ -1,6 +1,6 @@
 {
     "files": {
-        "README.md": "ab9b3ed5ae3df4c706dc1c1867a16737e755308d695613b6e3baa96a15bca386",
+        "README.md": "6f80e942d9beabe12f1a718998c5f9eb219384036bc3f04e88c9182afb1a9c1f",
         "lib/data/abnormalities.js": "c6f54b43ae22be469d3e300781c337861ad947cef018dbce67a9918f538ffd44",
         "lib/handlers/abnormality_handler.js": "cad2a669c6ddd3f2d9222514c917b6fa1a3578f0e40fb4b39cf7006eaadb3921",
         "lib/handlers/command_handler.js": "f4f8a54c1fa95b9d389e41549bc2a3bee799f31bf69e0369cd617821e06fc1e4",

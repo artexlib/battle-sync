@@ -1,33 +1,39 @@
-## ⚔️ battle-sync - WORK IN PROGRESS
+## Battle-Sync: TERA Timing Assistant WIP!
 
 [![MIT License](https://img.shields.io/badge/License-MIT-brightgreen.svg)](https://github.com/artexlib/battle-sync/blob/main/LICENSE)  [![Build Status](https://img.shields.io/badge/Build-passing-brightgreen)](https://github.com/artexlib/battle-sync)
 
-**Elevate your TERA gameplay with battle-sync!** This TERA Proxy module takes the guesswork out of ability timing by providing crucial in-game notifications when your party buffs and cooldowns are about to refresh.
+**Gameplay with Battle-Sync:** This TERA Proxy module provides crucial in-game notifications to help you perfectly time party buffs and ability cooldowns.
 
-### ✨ Key Features
+### Key Features
 
-* **Precision Timing:** Tracks essential party buffs and abilities, giving you a tactical edge in combat.
-* **Customizable Notifications:** Receive timely in-game countdown messages, ensuring you never miss a critical cooldown again.
-* **User-Friendly Configuration:** Easily adjust settings either through the intuitive UI or directly in the `config.json` file.
-* **Seamless Integration:** battle-sync works flawlessly within your TERA client, providing a polished and cohesive experience. 
+* **Timing:** Tracks essential party buffs and abilities.
+* **Notifications:** Receive timely in-game countdown messages.
+* **Configuration:** Adjust settings through the UI or `config.json`.
+* **Advanced:** Add more abormalities/buffs if you wish so `lib/data/abnormalities.js`. 
 
-### ⚙️ Installation
+### Installation
 
-1. **Prerequisites:** Ensure you have TERA Proxy/Toolbox installed and configured.
-2. **Download:** Get the latest release of battle-sync from the GitHub repository: https://github.com/artexlib/battle-sync
-3. **Installation:** Extract the downloaded module folder and place it within your Proxy `/mods` directory.
+1. **Prerequisites:** Ensure you have TERA Toolbox.
+2. **Download:** Get the latest release from the GitHub repository: https://github.com/artexlib/battle-sync
+3. **Installation:** Place the module folder within your Proxy `/mods` directory (unziped).
 
-### 🕹️ Usage
+### Usage
 
-* **Toggle:** Use the in-game command `/bsync` to enable or disable the module as needed.
-* **Configuration:** Access the settings window with `/bsync ui` (requires tera-mod-ui) to fine-tune battle-sync's behavior.
-* **Help:**  Type `/bsync help` for a quick command reference.
+* `/bsync`: Toggle the module on/off.
+* `/bsync ui`: Access the settings window (requires tera-mod-ui).
+* `/bsync help`: View a quick command reference.
 
-### 🔧  Configuration
+### Configuration
 
-Customize battle-sync to your preferences through the `config.json` file or the in-game UI.  Here's a snippet of the configuration options:
+Customize Battle-Sync's behavior through the `config.json` file or the in-game UI. 
 
-```json
-{
-  "isEnabled": true,
-}
+For advanced users, add additional abnormalities data in `lib/data/abnormalities.js`.
+
+### Contributing
+
+This a a WIP (WORK IN PROGRES) project
+
+### Contact
+
+Author: ArtexLib
+GitHub: https://github.com/artexlib/battle-sync 
