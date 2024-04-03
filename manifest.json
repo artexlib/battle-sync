@@ -2,7 +2,7 @@
     "files": {
         "README.md": "ab9b3ed5ae3df4c706dc1c1867a16737e755308d695613b6e3baa96a15bca386",
         "lib/data/abnormalities.js": "c6f54b43ae22be469d3e300781c337861ad947cef018dbce67a9918f538ffd44",
-        "lib/handlers/abnormality_handler.js": "87736d87f87b490f31c830dce65b1c68ee40d65930f6317084e8d5e9af7e21a2",
+        "lib/handlers/abnormality_handler.js": "cad2a669c6ddd3f2d9222514c917b6fa1a3578f0e40fb4b39cf7006eaadb3921",
         "lib/handlers/command_handler.js": "f4f8a54c1fa95b9d389e41549bc2a3bee799f31bf69e0369cd617821e06fc1e4",
         "lib/index.js": "fd33f0b12407f8471d7ce30b21edf1fac55c4e1644f7f2ebdce00a866305a106",
         "lib/settings/settings.js": "50fe4bc4b0cae9c082e364d6a51adcf22ff26d68fe08905bdf673af01539f3fa",
@@ -13,7 +13,6 @@
     },
     "defs": {
         "S_ABNORMALITY_BEGIN": 4,
-        "S_ABNORMALITY_END": 1,
         "S_ABNORMALITY_REFRESH": 1,
         "S_DUNGEON_EVENT_MESSAGE": 2
     }
