@@ -22,6 +22,7 @@ This module provides crucial in-game notifications to help you time party buffs 
 * `/bsync`: Toggle the module on/off.
 * `/bsync ui`: Access the settings window (requires tera-mod-ui).
 * `/bsync help`: View a quick command reference.
+* `/bsync msg (type)`: Change your display notification message type: normal, system, notice.
 
 ### Configuration
 

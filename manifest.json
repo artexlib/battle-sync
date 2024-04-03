@@ -1,13 +1,13 @@
 {
     "files": {
-        "README.md": "f7c239c02d0ac98052941e0e2e2749b6fb14feeb3054c46e2b37f0e55a80d989",
+        "README.md": "265713fd7024575984dc20140eb2264ca06872f01491a56b114140facae58111",
         "lib/data/abnormalities.js": "c6f54b43ae22be469d3e300781c337861ad947cef018dbce67a9918f538ffd44",
-        "lib/handlers/abnormality_handler.js": "56978938b8758bd0e456b35d68e517762ecc5f13d1b9bd738b40d6e9b928a299",
-        "lib/handlers/command_handler.js": "f4f8a54c1fa95b9d389e41549bc2a3bee799f31bf69e0369cd617821e06fc1e4",
+        "lib/handlers/abnormality_handler.js": "cd0c535d0624aba64b8e6801b97bdf9be1b64bef5cdda5a0c67d78f4482bf6d3",
+        "lib/handlers/command_handler.js": "175f3156a60e3cb81ffe304306b929a6b3bd3d1612c43eb03ad011a82ffa7889",
         "lib/index.js": "fd33f0b12407f8471d7ce30b21edf1fac55c4e1644f7f2ebdce00a866305a106",
         "lib/settings/settings.js": "50fe4bc4b0cae9c082e364d6a51adcf22ff26d68fe08905bdf673af01539f3fa",
-        "lib/settings/settings_migrator.js": "e9a22e4d0b1327aa9ccd4f60a24583385a1d30b5661abb563a17d8b901cc0015",
-        "lib/settings/settings_structure.js": "f4a5954a29d72393018a686a83cfd2e2a27e366297cb169eb5e218f6288b562e",
+        "lib/settings/settings_migrator.js": "d443cf5f5ec13d8a4810b698f17762bc67479d0d4cef9314c2af749afab02737",
+        "lib/settings/settings_structure.js": "be380aefb485973bc5b6da7a9779cff3048509636394b261a1a73fa158d53a1b",
         "module.json": "8ca42b9145fbc17a62ae3cd89909eab6881ffa7f7414ee7025b1b51f0da57901",
         "package.json": "98b94e8cb7ae6c3736b61f198bfd0f83df24db6bf4bae73f15a3df3c3e1b6f6e"
     },
