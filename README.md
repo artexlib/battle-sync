@@ -24,6 +24,14 @@ This module provides crucial in-game notifications to help you time party buffs 
 * `/bsync help`: View a quick command reference.
 * `/bsync msg (type)`: Change your display notification message type: normal, system, notice.
 
+### Important
+
+Countdown notifications cooldowns are set for Menma's Tera (MT: Dream) 1min/60second burning, can be adjusted at `lib/data/abnormalities.js` where "sync" value is the cooldown you would want to sync with (in miliseconds).
+
+There is a combat check to prevent pointless screen notifications if any boss dies during internal countdown.
+
+Example: When lancer uses Adrenaline Rush, it will tell you after 55seconds that it's ready again in 5,4,...1.
+
 ### Configuration
 
 Customize Battle-Sync's behavior through the `config.json` file or the in-game UI. 
