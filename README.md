@@ -26,11 +26,11 @@ This module provides crucial in-game notifications to help you time party buffs 
 
 ### Important
 
-Countdown notifications cooldowns are set for Menma's Tera (MT: Dream) 1min/60second burning, can be adjusted at `lib/data/abnormalities.js` where "sync" value is the cooldown you would want to sync with (in miliseconds).
+Countdown notification cooldowns are set for Menma's Tera (MT: Dream) 1min||60s burning, can be adjusted at `lib/data/abnormalities.js` where "sync" value is the skill cooldown you would want to sync with (in miliseconds).
 
-There is a combat check to prevent pointless screen notifications if any boss dies during internal countdown.
+There is a combat check to prevent pointless screen notifications if boss dies during internal countdown.
 
-Example: When lancer uses Adrenaline Rush, it will tell you after 55seconds that it's ready again in 5,4,...1.
+Example: When lancer uses Adrenaline Rush, it will tell you that it's ready again in 5,4,...1.
 
 ### Configuration
 
