@@ -2,7 +2,7 @@
 
 [![MIT License](https://img.shields.io/badge/License-MIT-brightgreen.svg)](https://github.com/artexlib/battle-sync/blob/main/LICENSE)  [![Build Status](https://img.shields.io/badge/Build-passing-brightgreen)](https://github.com/artexlib/battle-sync)
 
-**Gameplay with Battle-Sync:** This TERA Proxy module provides crucial in-game notifications to help you perfectly time party buffs and ability cooldowns.
+This module provides crucial in-game notifications to help you time party buffs and soon even more...
 
 ### Key Features
 
